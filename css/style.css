@@ -1,0 +1,34 @@
+table {
+  width: 75%;
+  border-collapse: collapse;
+  margin: 0 auto;
+  text-align: center;
+}
+td {
+  border: 1px solid gray;
+  width: 33.33%;
+  height: 50px;
+}
+.span {
+  height: 200px;
+}
+.table2 {
+  width: 90%;
+}
+.row40 {
+  width: 40%;
+}
+.row60 {
+  width: 60%;
+}
+.row28 {
+  width: 28%;
+}
+.row72 {
+  width: 72%;
+}
+.table3 {
+  width: 80%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
